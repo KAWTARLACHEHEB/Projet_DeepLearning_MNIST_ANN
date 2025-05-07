@@ -39,7 +39,7 @@ Ce projet a été développé avec :
 - ✅ **Scikit-learn**
 
 # Reproduction de l’environnement
-
+bash
 # Installer les dépendances nécessaires
 pip install tensorflow numpy matplotlib scikit-learn
 
