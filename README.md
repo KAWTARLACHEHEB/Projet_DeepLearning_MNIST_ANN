@@ -1,5 +1,5 @@
 
-# 📘 Projet Deep Learning – Classification des Chiffres Manuscrits (MNIST) avec ANN
+#  Projet Deep Learning – Classification des Chiffres Manuscrits (MNIST) avec ANN
 
 # Objectif du Projet
 
@@ -52,7 +52,7 @@ pip install tensorflow numpy matplotlib scikit-learn
 jupyter notebook
 
 
-## 📊 Résultats et Évaluation
+## Résultats et Évaluation
 
 - Accuracy sur les données de test : ~97%
 Matrice de confusion :
@@ -87,7 +87,7 @@ La vidéo de présentation inclut :
 - Les résultats obtenus
  Lien vers la vidéo : [À insérer ici une fois prête
 
-## 👩‍💻 Réalisé par
+## Réalisé par
 
 - Nom : Kawtar Lacheheb & Essaadia Jamafou
 - Filière : Master Informatique et Télécommunications  
