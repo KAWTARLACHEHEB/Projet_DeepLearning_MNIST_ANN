@@ -40,11 +40,6 @@ Ce projet a été développé avec :
 
 # Reproduction de l’environnement
 
-```bash
-# Créer et activer un environnement conda (facultatif mais recommandé)
-conda create -n dl-mnist python=3.9
-conda activate dl-mnist
-
 # Installer les dépendances nécessaires
 pip install tensorflow numpy matplotlib scikit-learn
 
