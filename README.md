@@ -30,13 +30,13 @@ Le modèle est un réseau de neurones entièrement connecté (Fully Connected / 
 
 Ce projet a été développé avec :
 
-- ✅ **Anaconda** (distribution Python)
-- ✅ **Jupyter Notebook**
-- ✅ **Python 3.x**
-- ✅ **TensorFlow / Keras**
-- ✅ **NumPy**
-- ✅ **Matplotlib**
-- ✅ **Scikit-learn**
+-  **Anaconda** (distribution Python)
+-  **Jupyter Notebook**
+-  **Python 3.x**
+-  **TensorFlow / Keras**
+-  **NumPy**
+-  **Matplotlib**
+-  **Scikit-learn**
 
 # Reproduction de l’environnement
 bash
@@ -80,11 +80,11 @@ La vidéo de présentation inclut :
 - La configuration de l’environnement (Anaconda + Jupyter)
 - L’explication du code et de l’architecture ANN
 - Les résultats obtenus
- Lien vers la vidéo : [À insérer ici une fois prête
+ Lien vers la vidéo : [https://github.com/KAWTARLACHEHEB/Projet_DeepLearning_MNIST_ANN/blob/main/screen-capture%20(6).mp4]
 
 ## Réalisé par
 
-- Nom : Kawtar Lacheheb & Essaadia Jamafou
+- Nom : Kawtar Lacheheb & Essaadia Jamaffou
 - Filière : Master Informatique et Télécommunications  
 - Établissement: Faculté des Sciences, Université Mohammed V – Rabat  
 - Année : 2024-2025
