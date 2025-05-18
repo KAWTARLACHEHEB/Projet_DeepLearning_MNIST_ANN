@@ -80,7 +80,7 @@ La vidéo de présentation inclut :
 - La configuration de l’environnement (Anaconda + Jupyter)
 - L’explication du code et de l’architecture ANN
 - Les résultats obtenus
- Lien vers la vidéo : [https://github.com/KAWTARLACHEHEB/Projet_DeepLearning_MNIST_ANN/blob/main/screen-capture%20(6).mp4]
+ Lien vers la vidéo :https://drive.google.com/file/d/1yYZAt7m7OHjedmNHMKl3FdKvea1bxaVC/view?usp=sharing
 
 ## Réalisé par
 
